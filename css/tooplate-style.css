@@ -323,7 +323,7 @@ a.cta-btn.align-middle:hover {
   padding: 8px 30px;
   border-radius: 25px;
   transition: background 0.5s;
-  margin: 10px;
+  margin: 29px;
   border: 2px solid #fff;
   color: #fff;
 }
@@ -591,7 +591,7 @@ margin-top: 60px;
 }
 #call-to-action {
     overflow: hidden;
-    background: linear-gradient(rgba(28, 41, 59, 0.25), rgba(249, 249, 249, 0.25)), url(../images/bearings-bg.jpg) fixed center center;
+    background: linear-gradient(rgba(28, 41, 59, 0.35), rgba(249, 249, 249, 0.35)), url(../images/bearings-bg.jpg) fixed center center;
     background-size: cover;
     padding: 80px 0;
 }
@@ -643,11 +643,7 @@ margin-top: 60px;
   line-height: 1;
 }
 
-#contact .info p {
-  padding: 0 0 10px 42px;
-  line-height: 28px;
-  font-size: 14px;
-}
+
 #contact {
   box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, 0.1);
   padding: 60px 0;
@@ -665,9 +661,9 @@ margin-top: 60px;
 }
 
 #contact .info p {
-  padding: 0 0 30px 42px;
-  line-height: 28px;
+text-align: left;
   font-size: 16px;
+    line-height: 1.7;
 }
 
 #contact .form #sendmessage {
