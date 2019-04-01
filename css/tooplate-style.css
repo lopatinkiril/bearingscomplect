@@ -99,7 +99,7 @@ http://www.tooplate.com/view/2106-soft-landing
   .overlay {
     background: #212529;  /* fallback for old browsers */
     
-    opacity: .3;
+    opacity: .5;
     position: absolute;
     top: 0;
     right: 0;
@@ -365,6 +365,7 @@ a.cta-btn.align-middle:hover {
     color: #ffffff;
     margin-top: 10px;
     margin-bottom: 30px;
+	      font-weight: 600;
   }
 
   .home-info {
